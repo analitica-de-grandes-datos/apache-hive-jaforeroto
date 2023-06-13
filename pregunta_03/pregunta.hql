@@ -14,6 +14,7 @@ Escriba el resultado a la carpeta `output` de directorio de trabajo.
         >>> Escriba su respuesta a partir de este punto <<<
 */
 
+
 DROP TABLE IF EXISTS data;
 DROP TABLE IF EXISTS pregunta;
 CREATE TABLE data 
