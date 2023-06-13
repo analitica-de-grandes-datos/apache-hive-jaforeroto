@@ -14,7 +14,7 @@ Escriba el resultado a la carpeta `output` de directorio de trabajo.
 */
 DROP TABLE IF EXISTS data;
 DROP TABLE IF EXISTS pregunta;
-CREATE TABLE data 
+CREATE TABLE dat 
         (letter STRING,
         dates DATE,
         number INT)
